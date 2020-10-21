@@ -9,7 +9,7 @@ import lombok.Data;
 
 @Data
 @SpringBootTest
-class CiCdApplicationIntegrationTest {
+public class CiCdApplicationIntegrationTest {
 
     @Test
     public void contextLoads() {
