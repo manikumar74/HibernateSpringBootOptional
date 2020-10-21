@@ -14,5 +14,6 @@ public class CiCdApplicationIntegrationTest {
     @Test
     public void contextLoads() {
 
+ 
     }
 }
